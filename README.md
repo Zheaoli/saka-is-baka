@@ -1,11 +1,10 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Saka is baka（馬鹿）
 
-To start the slide show:
+这是刷题群 2025 年第一次分享
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+分享过去几年内我犯下两次比较低级的 P0 错误
 
-Edit the [slides.md](./slides.md) to see the changes.
+1. 删库一次
+2. CDN 变更失误一次
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+完整复盘一下经历，以及后续的一些反思和改进（引以为戒.jpg)
